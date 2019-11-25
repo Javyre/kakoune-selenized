@@ -71,7 +71,7 @@ set-face global MenuBackground $fg,$black
 set-face global Information $br_yellow,$black
 set-face global Error $black,$br_red
 
-set-face global BufferPadding $black,$black
+set-face global BufferPadding $bg,$bg
 set-face global Whitespace $white
 set-face global StatusLine $fg,$black
 set-face global StatusLineInfo $yellow,$black
